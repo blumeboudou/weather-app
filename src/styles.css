@@ -171,3 +171,8 @@ strong {
 .wear {
   font-size: 35px;
 }
+.code {
+  color: black;
+  display: block;
+  text-align: center;
+}
